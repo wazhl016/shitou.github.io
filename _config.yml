@@ -1,1 +1,8 @@
+title: 我的技术博客
+description: AI / 编程 / 自动化 / 技术记录
+theme: minima
 
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
